@@ -1,3 +1,0 @@
-fastapi
-fastapi-poe
-uvicorn
